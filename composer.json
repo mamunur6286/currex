@@ -14,5 +14,6 @@
             "email": "mamunur6286@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
