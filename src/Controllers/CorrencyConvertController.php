@@ -1,6 +1,6 @@
 <?php
 
-namespace Mamun\Currex\Controllers;
+namespace Mamunur6286\Currex\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

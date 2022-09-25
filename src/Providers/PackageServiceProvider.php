@@ -1,6 +1,6 @@
 <?php
 
-namespace Mamun\Currex;
+namespace Mamunur6286\Currex;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -13,7 +13,7 @@ class PackageServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->make('Mamun\Currex\Controllers\CorrencyConvertController');
+        $this->app->make('Mamunur6286\Currex\Controllers\CorrencyConvertController');
     }
 
     /**
