@@ -1,0 +1,18 @@
+{
+    "name": "mamun/currex",
+    "description": "This is an currenc exchange package. User can change currency easily by using this package.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mamun\\Currex\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md Mamunur Rashid",
+            "email": "mamunur6286@gmail.com"
+        }
+    ],
+    "require": {}
+}
