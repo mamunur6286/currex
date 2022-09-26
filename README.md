@@ -104,5 +104,5 @@ http://localhost:8000/exchange?currency=USD&amount=100
 
 
 #### Conclution. 
-That's how to use Laravel Currency Exchanger package. This package is avaiable in packageIst websites ``. 
+That's how to use Laravel Currency Exchanger package. Thank you to use Currex. 
 
