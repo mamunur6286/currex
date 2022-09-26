@@ -6,7 +6,7 @@ composer require mamunur6286/currex
 ```
 
 # How to Use Currex
-As a developer we need to different type of currency exchange for our verious project. For this situation i develop a laravel package to prevent this problem to handle currency change. It can easier our development life if your porper used. The used preconditon and instruction is given bellow!
+As a developer we need different types of currency exchange for our various projects. For this situation I developed a laravel package to prevent this problem to handle currency change. It can improve your development life if you use it properly. The used precondition and instruction is given below!
 
 In this tutorial, I'll take you through an example on how to create a Laravel package in just 7 steps. So, let's go ahead and dive into it.
 
