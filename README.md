@@ -1,8 +1,8 @@
-# Calculator 
+# Laravel Currency Exchanger 
 
 ### Usage or Instalation 
 ```
-composer require yoosuf/calculator
+composer require mamunur6286/currex
 ```
 
 # How to create a Laravel Package
