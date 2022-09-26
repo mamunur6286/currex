@@ -40,12 +40,13 @@ Next, we need to add our new Service Provider in our config/app.php inside of th
      */
     Illuminate\Auth\AuthServiceProvider::class,
     //.. Other providers
+    
     Mamunur6286\Currex\Providers\CurrenryServiceProvider::class,
 
 ],
 ```
 
-Awesome! Our service provider is loaded and our package is ready to go! But we don't have any functionality yet... Let's tackle that by adding a routes file for our package.
+Awesome! Our service provider is loaded and our package is ready to go! But we don't have any functionality yet... Let's tackle that by adding a Controller for our Project.
 
 #### 5. Basic Usease
 
@@ -65,7 +66,6 @@ class ConvertController
 }
 
 ```
-
 Then let's create an exchange method inside your controller `exchange()` and flow bellow code:
 
 ```
