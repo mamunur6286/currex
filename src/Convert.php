@@ -39,7 +39,7 @@ class Convert implements EuropeanBankInterface {
 
             $exchange_rate = $request->amount *  $currency['@attributes']['rate'];
             $format_amount = number_format($exchange_rate, 3);
-            
+
             return response([
                 'success' => true,
                 'message' => 'Currency exchance successfully.',

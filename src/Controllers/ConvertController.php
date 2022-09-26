@@ -15,7 +15,19 @@ class ConvertController
     {
         $this->convert = $convert;
     }
-
+    /**
+     * Fetch xml api data for European Bank. 
+     *
+     *
+     * @return string
+     */
+    public function checkApp () {
+        
+        return response([
+            'success' => true,
+            'message' => 'Your package is successfully installed.'
+        ]);
+    }
     /**
      * Validate api data and respons final data. 
      *
