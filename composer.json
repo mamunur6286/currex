@@ -1,6 +1,6 @@
 {
     "name": "mamunur6286/currex",
-    "description": "This is an currency exchange library.",
+    "description": "This is an currency exchange package.",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -15,5 +15,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
 }
