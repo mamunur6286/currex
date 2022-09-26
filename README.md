@@ -5,8 +5,8 @@
 composer require mamunur6286/currex
 ```
 
-# How to create a Laravel Package
-Getting pretty good at Laravel? Maybe you've created a few apps with this amazing framework and now you want to create some re-usable code or a package for Laravel. Where do you go to learn how to create a package? Right here of course!
+# How to Use Currex
+As a developer we need to different type of currency exchange for our verious project. For this situation i develop a laravel package to prevent this problem to handle currency change. It can easier our development life if your porper used. The used preconditon and instruction is given bellow!
 
 In this tutorial, I'll take you through an example on how to create a Laravel package in just 7 steps. So, let's go ahead and dive into it.
 
