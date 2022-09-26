@@ -99,9 +99,7 @@ Let's we see how to work this package in api endpoint. After run your project yo
 
 ```
 http://localhost:8000/exchange?currency=USD&amount=100
-
 ```
-
 
 #### Conclution. 
 That's how to use Laravel Currency Exchanger package. Thank you to use Currex. 
