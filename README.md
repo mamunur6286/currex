@@ -1,5 +1,5 @@
 # Laravel Currency Exchanger
-The Laravel Currency Exchanger is a Laravel-based web application developed by Md Mamunur Rashid.
+The Currex is a Laravel Package for realtime currency exchange.
 
 It allows users to easily exchange and convert currencies in real-time. The application integrates with APIs to fetch up-to-date exchange rates and provides a user-friendly interface for performing currency conversions. It is designed to be scalable, secure, and easy to customize, making it suitable for personal or business use.
 
